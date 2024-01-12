@@ -8,7 +8,10 @@
 **Articles:**
 * Stop using the elbow criterion for k-means and how to choose the number of clusters instead by Erich Schubert
 * Machine Learning with PyTorch and Scikit-Learn by Raschka et al
-  
+ 
+**Blog Posts:**
+* https://medium.com/@techworldwithmilan/most-common-software-architecture-styles-86881d779683
+
 
 **Proffesional Courses:**
 
